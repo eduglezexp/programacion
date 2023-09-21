@@ -12,4 +12,21 @@ Desarrolle un algoritmo que permita leer dos valores distintos, determinar cual 
 
 <img src="images/Diagrama-flujo.drawio.png" />
 
+###
+Pseudocódigo
+
+Pasos:
+
+ - Inicio
+ - Inicializar variables: __A = 0, B = 0__
+ - Solicitar la introducción de dos valores distintos
+ - Leer los dos valores
+ - Asignarlos a las variables __A y B__
+ - Si __A = B__ Entonces vuelve a 3 porque los valores deben ser distintos
+ - Si __A>B__ Entonces Escribir __A, “Es el mayor”__
+ - De lo contrario: Escribir __B, “Es el mayor”__
+ - Fin_Si
+ - Fin
+
 </div>
+
