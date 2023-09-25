@@ -10,11 +10,11 @@
 
 Desarrolle un algoritmo que permita leer dos valores distintos, determinar cual de los dos valores es el mayor y escribirlo.
 
-### Diagrama de Flujo
+## Diagrama de Flujo
 
 <img src="images/Diagrama-flujo.drawio.png" />
 
-### Pseudocódigo
+## Pseudocódigo
 
 Pasos:
 
@@ -36,11 +36,11 @@ respectivamente. El algoritmo debe imprimir cual es el mayor y cual es el menor.
 los tres valores introducidos por el teclado sean valores distintos. Presente un mensaje de alerta en caso de
 que se detecte la introducción de valores iguales.
 
-### Diagrama de Flujo
+## Diagrama de Flujo
 
 <img src="images/diagrama-flujo-ej2.drawio.png" />
 
-### Pseudocódigo
+## Pseudocódigo
 
 Pasos:
 
@@ -63,11 +63,11 @@ Pasos:
 Desarrolle un algoritmo que realice la sumatoria de los números enteros comprendidos entre el 1 y el 10,
 es decir, 1 + 2 + 3 + …. + 10.
 
-### Diagrama de Flujo
+## Diagrama de Flujo
 
 <img src="images/diagrama-flujo-ej3.drawio.png" />
 
-### Pseudocódigo
+## Pseudocódigo
 
 Pasos:
 
