@@ -1,11 +1,19 @@
-package org.example;
+package ies.iespuerto;
 
 import java.util.Scanner;
 
+/**
+ * Clase que realiza ejercicio numero 1 de las tareas
+ */
 public class Main {
     public static void main(String[] args) {
 
         Scanner lectura = new Scanner(System.in);
+
+        //Bloque 1: pide por pantalla y asigna valor
+
+
+        //Bloque 2: Verifica si los valores son iguales
 
         int valorA;
         int valorB;
@@ -29,5 +37,8 @@ public class Main {
         } else{
                 System.out.println("El valor mayor es B");
         }
+        //Bloque 3: verifica si A > B
+
+        //Bloque 4: muestra por pantalla el valor mayor
     }
 }
